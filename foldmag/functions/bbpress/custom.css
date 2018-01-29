@@ -1,0 +1,27 @@
+body.bbpress #single-content {}
+
+body.bbpress .post-paging {display:none;}
+
+body.bbpress #single-content .content-area {}
+
+#bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-topics, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results {border: 1px solid #ddd;}
+
+#bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic {border-top: 1px solid #ddd;}
+
+#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {border: 1px solid #ddd;}
+
+#bbpress-forums fieldset.bbp-form {border: 1px solid #ddd;}
+
+body.bbpress article .entry-meta, body.bbpress #breadcrumbs, body.bbpress #author-bio {display: none;}
+
+.widget_display_stats dl {clear: both; padding: 10px 5%;}
+
+#subscription-toggle a {float: right; padding: 2px 12px; margin: 0 0 1em; display: inline; font-weight: bold; background: #f5f5f5; border: 1px solid #ddd; color: #555;}
+
+#bbpress-forums li {font-size: 1em;}
+
+#bbpress-forums a.bbp-forum-title {font-size: 1.25em; font-weight: bold;}
+
+#bbpress-forums li div.bbp-forum-content {font-size:16px !important;}
+
+.widget_display_stats dl[role='main'] dt,.widget_display_stats dl[role='main'] dd {float: left; width: 46%; margin: 0 0 10px; padding: 0 2%;}

@@ -1,0 +1,5 @@
+body.woocommerce #single-content .content-area {}
+
+body.woocommerce-page #single-content {}
+
+.woocommerce .widget_shopping_cart .cart_list li, .woocommerce.widget_shopping_cart .cart_list li {width: 90%;}

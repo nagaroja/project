@@ -1,0 +1,59 @@
+body.buddypress #single-content .content-area {}
+div#item-header h2 {font-size: 14px;}
+div#item-body h3 {font-size: 1.8em;}
+#buddypress div.item-list-tabs {font-size: 0.85em;}
+.widget.buddypress div.item-options {font-size: 90%; margin: 0 0 1em; padding: 0;}
+.widget.buddypress div.item-options .bp-separator {color: #ccc;}
+#buddypress #activity-stream p,#whats-new-post-in-box p {display: inline;}
+#buddypress div.item-list-tabs {padding: 8px; background: #eaeaea; clear: left; margin: 0px; overflow: hidden;}
+#buddypress div.item-list-tabs#subnav {border-bottom: 0 none;}
+#buddypress div.item-list-tabs ul li.feed a {padding-left: 20px;}
+#buddypress #whats-new-options {overflow: hidden;}
+.widget.buddypress .bp-login-widget-user-avatar {margin: 10px 0 0; float: left; width: 60px;}
+.widget.buddypress .bp-login-widget-user-links {float: left; margin: 10px 0 0 5px;}
+.widget.buddypress .bp-login-widget-user-links div {padding:0 !important; margin:0 !important;}
+.widget.buddypress .bp-login-widget-user-link a {font-size: 1.4em;}
+.widget.buddypress .bp-login-widget-user-logout a {color: #888;}
+
+.sidebar .widget.buddypress div.item-options {font-size: 90%; margin:0; width:87%;padding:10px 6%;background-color:#fff;}
+
+#buddypress .activity-list .activity-content .activity-header img.avatar {width: 20px; height: auto;}
+#buddypress div.activity-comments div.acomment-meta,#buddypress div.activity-comments div.acomment-content {font-size:1em !important;}
+#buddypress div.activity-comments {margin: 20px 0 0 70px;}
+#buddypress div.activity-comments > ul {margin: 0px; padding: 15px; border: 1px solid #ddd;}
+#buddypress div.activity-comments div.acomment-meta {margin: 0px 0 0 40px;}
+#buddypress div.activity-comments ul li > ul {padding-left: 0px;}
+#buddypress ul#activity-stream li ul li ul {border-top: 1px solid #ddd;}
+#buddypress div.activity-comments ul li {margin: 0 0 10px; padding:0 0 10px !important; border-bottom: 1px solid #ddd;}
+#buddypress div.activity-comments ul li ul li {margin: 0 0 10px; padding:0 0 10px !important;}
+#buddypress div.activity-comments ul li ul {padding: 10px 0 0;}
+#buddypress div.activity-comments ul li:last-of-type {border-bottom: 0 none;}
+#right-sidebar ul.item-list li,#left-sidebar ul.item-list li {padding: 0; background:transparent none !important; list-style: none; margin:0 0 0.785em;}
+aside.widget ul.item-list li {border-bottom: 1px solid #ddd; padding: 0 0 0.7em 0;}
+footer aside.widget ul.item-list li {border-bottom:1px solid #188013; padding: 0;}
+ul.item-list li:last-of-type {border-bottom: 0 none !important;}
+.widget.buddypress div.item-meta, .widget.buddypress div.item-content {margin-left: 0px;}
+.widget.buddypress span.activity {font-size: 100%; opacity: 0.5;}
+span.activity {background: transparent none; border: 0 none;}
+#buddypress div.dir-search {margin: -50px 0 0 0;}
+.widget.buddypress div.item {margin: 0;}
+.ftop ul.item-list li {padding: 0;}
+#buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span {text-decoration: none !important;}
+#buddypress ul#topic-post-list li div.post-content {width:auto !important; float:none !important; margin-left: 50px;}
+#buddypress div#topic-meta {padding: 5px 0px 30px;}
+button, a.button, input[type=submit], input[type=button], input[type=reset], ul.button-nav li a, div.generic-button a, .comment-reply-link {padding: 4px 10px !important;}
+.widget.buddypress #bp-login-widget-form label{text-decoration: none; margin: 0px; padding: 0px; font-size: 1em;}
+.widget.buddypress #bp-login-widget-form input[type='text'], .widget.buddypress #bp-login-widget-form input[type='password'] {background-color: #FFF; margin: 0px; padding: 2px; width: 90%; border: 1px solid #CCC; margin: 0 0 1em;}
+.widget.buddypress #bp-login-widget-form {margin: 0px; padding: 0px 0px 1em; clear: both;}
+.post-content .post-content {font-size:1em !important; padding-top:0 !important;}
+#topic-meta h3 {font-weight: bold;}
+.widget_bp_core_sitewide_messages {border:0 none !important;}
+.widget_bp_core_sitewide_messages div strong:first-of-type {font-size:16px !important;}
+.widget_bp_core_sitewide_messages div p{margin:0 !important;}
+.widget_bp_core_sitewide_messages h3 {display: none;}
+#buddypress .activity-inner img {display: block;}
+#buddypress ul.item-list.activity-list li {border-bottom: 1px solid #d8d8d8;}
+.activity-list span.time-since {display: block; font-size:12px !important;}
+#custom .activity-list .activity-header {font-size: 15px; color:#333 !important;}
+#custom .activity-list .activity-header a {text-decoration: underline;}
+.bp-user .post-title {display: none;}

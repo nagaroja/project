@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 02:37+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15 content-none.php:2 functions/hook-functions.php:791
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:18 content-none.php:5
+msgid "The page you requested cannot be found!"
+msgstr ""
+
+#: 404.php:19 content-none.php:6
+msgid "Perhaps you are here because:"
+msgstr ""
+
+#: 404.php:21 content-none.php:9
+msgid "The page has moved"
+msgstr ""
+
+#: 404.php:22 content-none.php:10
+msgid "The page url has been change"
+msgstr ""
+
+#: 404.php:23 content-none.php:11
+msgid "The page no longer exist"
+msgstr ""
+
+#: 404.php:25
+#, php-format
+msgid ""
+"Don't worry, we are still here, just <a href=\"%s\">click here</a> to go "
+"back to civilization."
+msgstr ""
+
+#: comments.php:30
+msgid " Pingbacks"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:55
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Comment"
+msgstr ""
+
+#: content-image.php:24
+#, php-format
+msgid ""
+"<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%8$s</a>."
+msgstr ""
+
+#: content-image.php:78
+msgid "&larr; Previous Image"
+msgstr ""
+
+#: content-image.php:79
+msgid "Next Image &rarr;"
+msgstr ""
+
+#: content-none.php:8
+msgid "The search keyword you searching cannot be found"
+msgstr ""
+
+#: content-none.php:13
+#, php-format
+msgid ""
+"Don't worry, we are still here, just <a href=\"%s\">click here</a> to go "
+"back to civilization or use the search form below."
+msgstr ""
+
+#: functions.php:29
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:30
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:31
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions/bbpress/functions.php:35
+msgid "Forum Sidebar"
+msgstr ""
+
+#: functions/bbpress/functions.php:37
+msgid "Forum sidebar widget area"
+msgstr ""
+
+#: functions/buddypress/functions.php:42
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: functions/buddypress/functions.php:44
+msgid "BuddyPress sidebar widget area"
+msgstr ""
+
+#: functions/customizer-functions.php:104
+msgid "Choose a category"
+msgstr ""
+
+#: functions/customizer-functions.php:127
+msgid "Theme Options"
+msgstr ""
+
+#: functions/customizer-functions.php:128
+msgid "Customize this theme"
+msgstr ""
+
+#: functions/customizer-functions.php:145
+msgid "Fonts"
+msgstr ""
+
+#: functions/customizer-functions.php:146
+msgid "Theme fonts settings"
+msgstr ""
+
+#: functions/customizer-functions.php:155
+msgid "Posts"
+msgstr ""
+
+#: functions/customizer-functions.php:156
+msgid "Theme posts settings"
+msgstr ""
+
+#: functions/customizer-functions.php:164 functions/hook-functions.php:622
+#: functions/theme-functions - Copy.php:81 functions/theme-functions.php:81
+msgid "Home"
+msgstr ""
+
+#: functions/customizer-functions.php:165
+msgid "Home settings"
+msgstr ""
+
+#: functions/customizer-functions.php:174
+msgid "Advertisement"
+msgstr ""
+
+#: functions/customizer-functions.php:175
+msgid "Advertisement location settings"
+msgstr ""
+
+#: functions/customizer-functions.php:183
+msgid "Miscellaneous"
+msgstr ""
+
+#: functions/customizer-functions.php:184
+msgid "Miscellaneous settings"
+msgstr ""
+
+#: functions/customizer-functions.php:192
+#: functions/customizer-functions.php:604
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer-functions.php:193
+msgid "Custom css and style settings"
+msgstr ""
+
+#: functions/customizer-functions.php:294
+msgid "Body"
+msgstr ""
+
+#: functions/customizer-functions.php:298
+#: functions/customizer-functions.php:322
+#: functions/customizer-functions.php:350
+msgid "font weight"
+msgstr ""
+
+#: functions/customizer-functions.php:308
+msgid "Headline"
+msgstr ""
+
+#: functions/customizer-functions.php:336
+msgid "Navigation"
+msgstr ""
+
+#: functions/customizer-functions.php:359
+msgid "Main Color"
+msgstr ""
+
+#: functions/customizer-functions.php:366
+msgid "Enable First Image Grab for Featured Thumbnails"
+msgstr ""
+
+#: functions/customizer-functions.php:380
+msgid "Enable Related Posts"
+msgstr ""
+
+#: functions/customizer-functions.php:399
+msgid "Choose related count"
+msgstr ""
+
+#: functions/customizer-functions.php:409
+msgid "Enable Author Bio"
+msgstr ""
+
+#: functions/customizer-functions.php:422
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: functions/customizer-functions.php:435
+msgid "Enable Social Share"
+msgstr ""
+
+#: functions/customizer-functions.php:448
+msgid "Choose Featured Category for Homepage"
+msgstr ""
+
+#: functions/customizer-functions.php:449
+msgid ""
+"Add a single or list of cat ids to featured in homepage<br /><small>example: "
+"7,16,33</small>"
+msgstr ""
+
+#: functions/customizer-functions.php:458
+msgid "How many to show?"
+msgstr ""
+
+#: functions/customizer-functions.php:459
+msgid "Choose how many posts from the choosen category to show"
+msgstr ""
+
+#: functions/customizer-functions.php:468
+#, php-format
+msgid ""
+"Add a list of post ids to featured in homepage, max 10. Post type: %s "
+"Supported.<br /><small>example: 136,928,925,80,77,55,49</small>"
+msgstr ""
+
+#: functions/customizer-functions.php:470
+msgid "OR Choose Featured Posts for Homepage"
+msgstr ""
+
+#: functions/customizer-functions.php:480
+msgid "Top Header"
+msgstr ""
+
+#: functions/customizer-functions.php:481
+#: functions/customizer-functions.php:498
+#: functions/customizer-functions.php:507
+#: functions/customizer-functions.php:516
+msgid "Add script code or image banner here"
+msgstr ""
+
+#: functions/customizer-functions.php:489
+msgid "First Post Loop"
+msgstr ""
+
+#: functions/customizer-functions.php:490
+#: functions/customizer-functions.php:524
+msgid "Add script code or image banner here."
+msgstr ""
+
+#: functions/customizer-functions.php:497
+msgid "Second Post Loop"
+msgstr ""
+
+#: functions/customizer-functions.php:506
+msgid "Single Post Top"
+msgstr ""
+
+#: functions/customizer-functions.php:515
+msgid "Single Post Bottom"
+msgstr ""
+
+#: functions/customizer-functions.php:523 functions/widget-functions.php:8
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions/customizer-functions.php:533
+msgid "Schema.org Markup for Posts"
+msgstr ""
+
+#: functions/customizer-functions.php:534
+msgid "Choose to disable or enable schema markup for posts"
+msgstr ""
+
+#: functions/customizer-functions.php:542
+msgid "Schema.org Markup for Breadcrumb"
+msgstr ""
+
+#: functions/customizer-functions.php:543
+msgid "Choose to disable or enable schema markup for site breadcrumb"
+msgstr ""
+
+#: functions/customizer-functions.php:550
+msgid "Schema.org Markup for Comments"
+msgstr ""
+
+#: functions/customizer-functions.php:551
+msgid "Choose to disable or enable schema markup for comments"
+msgstr ""
+
+#: functions/customizer-functions.php:559
+msgid "Facebook Link"
+msgstr ""
+
+#: functions/customizer-functions.php:560
+msgid "Enter full url include http for your Facebook link"
+msgstr ""
+
+#: functions/customizer-functions.php:568
+msgid "Twitter Link"
+msgstr ""
+
+#: functions/customizer-functions.php:569
+msgid "Enter full url with http for your Twitter link"
+msgstr ""
+
+#: functions/customizer-functions.php:577
+msgid "Google Plus Link"
+msgstr ""
+
+#: functions/customizer-functions.php:578
+msgid "Enter full url with http for your Google Plus link"
+msgstr ""
+
+#: functions/customizer-functions.php:586
+msgid "Pinterest Link"
+msgstr ""
+
+#: functions/customizer-functions.php:587
+msgid "Enter full url with http for your Pinterest link"
+msgstr ""
+
+#: functions/customizer-functions.php:595
+msgid "RSS Feed Link"
+msgstr ""
+
+#: functions/customizer-functions.php:596
+msgid "Enter full url with http for your RSS feed link"
+msgstr ""
+
+#: functions/customizer-functions.php:605
+msgid "Insert your custom css here."
+msgstr ""
+
+#: functions/customizer-functions.php:637
+msgid "Reset"
+msgstr ""
+
+#: functions/customizer-functions.php:638
+msgid ""
+"Attention! This will remove all customizations ever made via customizer to "
+"this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+
+#: functions/fonts-functions.php:19
+msgid "Something went wrong!"
+msgstr ""
+
+#: functions/hook-functions.php:25 functions/hook-functions.php:520
+msgid "Search for:"
+msgstr ""
+
+#: functions/hook-functions.php:26 functions/hook-functions.php:520
+msgid "Search &hellip;"
+msgstr ""
+
+#: functions/hook-functions.php:28 functions/hook-functions.php:520
+#: templates/right-widget-default.php:13
+msgid "Search"
+msgstr ""
+
+#: functions/hook-functions.php:119
+msgid "Like us on Facebook"
+msgstr ""
+
+#: functions/hook-functions.php:120
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: functions/hook-functions.php:121
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: functions/hook-functions.php:122
+msgid "Join us on Google Page"
+msgstr ""
+
+#: functions/hook-functions.php:123
+msgid "Subscribe to our site RSS Feed"
+msgstr ""
+
+#: functions/hook-functions.php:173
+msgid "Browse The Site"
+msgstr ""
+
+#: functions/hook-functions.php:342
+msgid "About This Theme"
+msgstr ""
+
+#: functions/hook-functions.php:357 functions/widget-functions.php:68
+#: templates/right-widget-default.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/hook-functions.php:371
+msgid "Tags"
+msgstr ""
+
+#: functions/hook-functions.php:407
+msgid "Copyright &copy;"
+msgstr ""
+
+#: functions/hook-functions.php:437
+msgid "Tagged:"
+msgstr ""
+
+#: functions/hook-functions.php:551
+msgid "Category Color"
+msgstr ""
+
+#: functions/hook-functions.php:636 functions/hook-functions.php:647
+msgid "You are here: "
+msgstr ""
+
+#: functions/hook-functions.php:639 functions/hook-functions.php:795
+msgid "Page"
+msgstr ""
+
+#: functions/hook-functions.php:661
+msgid "Search results for"
+msgstr ""
+
+#: functions/hook-functions.php:698 functions/hook-functions.php:707
+msgid "You are reading &raquo;"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:596 Copy.php:622 Copy.php:629
+#: Copy.php:652 functions/theme-functions.php:596
+#: functions/theme-functions.php:622 functions/theme-functions.php:629
+#: functions/theme-functions.php:652
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:695 Copy.php:736
+#: functions/theme-functions.php:695 functions/theme-functions.php:736
+#: functions/widget-functions.php:106 functions/widget-functions.php:229
+#: functions/widget-functions.php:454 functions/widget-functions.php:585
+#: templates/post-meta.php:18
+msgid "No Comment"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:695 Copy.php:736
+#: functions/theme-functions.php:695 functions/theme-functions.php:736
+#: functions/widget-functions.php:106 functions/widget-functions.php:229
+#: functions/widget-functions.php:454 functions/widget-functions.php:585
+#: templates/post-meta.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:695 Copy.php:736
+#: functions/theme-functions.php:695 functions/theme-functions.php:736
+#: functions/widget-functions.php:106 functions/widget-functions.php:229
+#: functions/widget-functions.php:454 functions/widget-functions.php:585
+#: templates/post-meta.php:18
+msgid "% Comments"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:935 functions/theme-functions.php:935
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:943 Copy.php:1002
+#: functions/theme-functions.php:943 functions/theme-functions.php:1002
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:947 Copy.php:1006
+#: functions/theme-functions.php:947 functions/theme-functions.php:1006
+msgid "Edit"
+msgstr ""
+
+#: functions/theme-functions - Copy.php:962 functions/theme-functions.php:962
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/widget-functions.php:10
+msgid "Right sidebar widget area"
+msgstr ""
+
+#: functions/widget-functions.php:20
+msgid "Footer One"
+msgstr ""
+
+#: functions/widget-functions.php:22
+msgid "Footer one widget area"
+msgstr ""
+
+#: functions/widget-functions.php:30
+msgid "Footer Two"
+msgstr ""
+
+#: functions/widget-functions.php:32
+msgid "Footer two widget area"
+msgstr ""
+
+#: functions/widget-functions.php:41
+msgid "Footer Three"
+msgstr ""
+
+#: functions/widget-functions.php:43
+msgid "Footer three widget area"
+msgstr ""
+
+#: functions/widget-functions.php:61
+msgid "Recent Posts Featured Image"
+msgstr ""
+
+#: functions/widget-functions.php:62
+msgid "Display recent posts with featured images."
+msgstr ""
+
+#: functions/widget-functions.php:130 functions/widget-functions.php:253
+#: functions/widget-functions.php:483 functions/widget-functions.php:614
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-functions.php:134 functions/widget-functions.php:257
+#: functions/widget-functions.php:491 functions/widget-functions.php:632
+msgid "Enable Thumbnails?:<br /><em>*post featured images</em>"
+msgstr ""
+
+#: functions/widget-functions.php:136 functions/widget-functions.php:145
+#: functions/widget-functions.php:259 functions/widget-functions.php:268
+#: functions/widget-functions.php:509 functions/widget-functions.php:649
+msgid "Disable"
+msgstr ""
+
+#: functions/widget-functions.php:137 functions/widget-functions.php:260
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/widget-functions.php:138 functions/widget-functions.php:261
+msgid "Medium"
+msgstr ""
+
+#: functions/widget-functions.php:142 functions/widget-functions.php:265
+msgid "Enable Post Meta?:<br /><em>*post date and post comment count etc</em>"
+msgstr ""
+
+#: functions/widget-functions.php:144 functions/widget-functions.php:267
+#: functions/widget-functions.php:508 functions/widget-functions.php:648
+msgid "Enable"
+msgstr ""
+
+#: functions/widget-functions.php:152
+msgid "Offset Recent Posts: ex: -1 or -3 etc"
+msgstr ""
+
+#: functions/widget-functions.php:158 functions/widget-functions.php:273
+#: functions/widget-functions.php:378 functions/widget-functions.php:515
+#: functions/widget-functions.php:655
+msgid "How many to show: "
+msgstr ""
+
+#: functions/widget-functions.php:184 functions/widget-functions.php:191
+#: templates/right-widget-default.php:28
+msgid "Popular Posts"
+msgstr ""
+
+#: functions/widget-functions.php:185
+msgid "Display most commented and popular posts."
+msgstr ""
+
+#: functions/widget-functions.php:299 functions/widget-functions.php:306
+msgid "Custom Recent Comments"
+msgstr ""
+
+#: functions/widget-functions.php:300
+msgid "Display your most recent comments."
+msgstr ""
+
+#: functions/widget-functions.php:342
+msgid "Comment on"
+msgstr ""
+
+#: functions/widget-functions.php:365
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: functions/widget-functions.php:369
+msgid "Enable avatar?:"
+msgstr ""
+
+#: functions/widget-functions.php:371 functions/widget-functions.php:493
+#: functions/widget-functions.php:634
+msgid "yes"
+msgstr ""
+
+#: functions/widget-functions.php:372 functions/widget-functions.php:494
+#: functions/widget-functions.php:635
+msgid "no"
+msgstr ""
+
+#: functions/widget-functions.php:404 functions/widget-functions.php:413
+msgid "Featured Categories"
+msgstr ""
+
+#: functions/widget-functions.php:405
+msgid "Display your featured category listing."
+msgstr ""
+
+#: functions/widget-functions.php:483 functions/widget-functions.php:614
+msgid "*required"
+msgstr ""
+
+#: functions/widget-functions.php:487
+msgid "Category ID:"
+msgstr ""
+
+#: functions/widget-functions.php:487
+msgid "*separate by commas [,]"
+msgstr ""
+
+#: functions/widget-functions.php:498 functions/widget-functions.php:639
+msgid "Thumbnails Size?:"
+msgstr ""
+
+#: functions/widget-functions.php:500 functions/widget-functions.php:641
+msgid "thumbnail"
+msgstr ""
+
+#: functions/widget-functions.php:501 functions/widget-functions.php:642
+msgid "medium"
+msgstr ""
+
+#: functions/widget-functions.php:506 functions/widget-functions.php:646
+msgid "Enable Post Meta?:<br /><em>*post date and post comments count</em>"
+msgstr ""
+
+#: functions/widget-functions.php:541
+msgid "Custom Post Type"
+msgstr ""
+
+#: functions/widget-functions.php:542
+msgid "Display your custom post type listing."
+msgstr ""
+
+#: functions/widget-functions.php:550
+msgid "Custom Posts"
+msgstr ""
+
+#: functions/widget-functions.php:617
+msgid "Select Custom Post Type:"
+msgstr ""
+
+#: functions/widget-functions.php:694 templates/right-widget-default.php:8
+msgid "Stay Up Date"
+msgstr ""
+
+#: functions/woocommerce/functions.php:46
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions/woocommerce/functions.php:48
+msgid "Shop sidebar widget area"
+msgstr ""
+
+#: sidebar.php:27
+msgid "Widget"
+msgstr ""
+
+#: sidebar.php:29
+#, php-format
+msgid ""
+"This is a widget area for %1$s. You need to setup your widget item in <a "
+"href=\"%2$s\">here</a>"
+msgstr ""
+
+#: templates/author-bio.php:5
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: templates/author-bio.php:9
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/left-widget-default.php:7 templates/right-widget-default.php:18
+msgid "Categories"
+msgstr ""
+
+#: templates/pagination.php:24
+msgid "&laquo;"
+msgstr ""
+
+#: templates/pagination.php:25
+msgid "&raquo;"
+msgstr ""
+
+#: templates/pagination.php:32
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: templates/pagination.php:33
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: templates/related.php:25
+msgid "Related Posts"
+msgstr ""
+
+#: templates/related.php:62
+msgid "Related Articles"
+msgstr ""
+
+#: templates/right-widget-default.php:34
+msgid "Archived Posts"
+msgstr ""
+
+#: templates/share-social.php:20
+msgid "Share in Facebook"
+msgstr ""
+
+#: templates/share-social.php:20
+msgid "Share"
+msgstr ""
+
+#: templates/share-social.php:22
+msgid "Share in Twitter"
+msgstr ""
+
+#: templates/share-social.php:24
+msgid "Share in Google+"
+msgstr ""
+
+#: templates/share-social.php:26
+msgid "Share in Pinterest"
+msgstr ""
